@@ -15,3 +15,34 @@
     position: absolute;
     bottom: 0;
 }
+
+h1{
+    font-size: 35px;
+}
+
+.writtenby{
+    color: grey;
+}
+
+.author{
+    color: cornflowerblue;
+    font-weight: 600;
+}
+
+.date{
+    font-size: small;
+}
+
+.containerfoto{
+    width: 100%;
+}
+
+.portraits{
+    height: 300px;
+    width: 425px;
+}
+
+.subtitle{
+    font-size: smaller;
+    font-weight: 500;
+}
