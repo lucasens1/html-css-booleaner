@@ -1,0 +1,17 @@
+.logos{
+    height: 75px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: cornflowerblue;
+    position: relative;
+}
+
+.logos > img {
+    width: 150px;
+    height: 50px;
+}
+
+.logobool {
+    position: absolute;
+    bottom: 0;
+}
