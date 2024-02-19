@@ -46,3 +46,40 @@ h1{
     font-size: smaller;
     font-weight: 500;
 }
+
+.importantext{
+    background-color: yellow;
+}
+
+.tabellalo{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.intestabella{
+    color: white;
+    background-color: rgb(32, 100, 178);
+}
+
+.intestabella > tr{
+    border: none;
+}
+
+.onecell{
+    width: 25%;
+}
+
+.twocell{
+    width: 25%;
+}
+
+.threecell{
+    width: 50;
+    text-align: justify;
+}
+
+.rigadispari{
+    background-color: rgb(131, 197, 248);
+}
+
