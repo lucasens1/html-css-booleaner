@@ -90,14 +90,16 @@ h1{
     width: 200px;
 }
 
+.microcont img{
+    background-size: cover;
+}
+
 .computer{
     background-image: url(../img/monitor.jpg);
-    background-size: 100% 100%;
 }
 
 .mappa{
     background-image: url(../img/graph.jpg);
-    background-size: 100% 100%;
 }
 
 .sottoad{
